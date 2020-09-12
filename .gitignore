@@ -1,0 +1,12 @@
+# Maven
+log/
+target/
+.mvn/
+
+# Java
+*.class
+
+# Intellij
+.idea/
+*.iml
+*.iws
